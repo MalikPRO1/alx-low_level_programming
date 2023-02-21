@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * main - to Print _putchar
  * Return: Always 0
